@@ -1,0 +1,136 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects",
+      "testimonials": "Testimonials",
+      "education": "Education",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Senior Fullstack",
+      "subtitle": "Developer",
+      "description": "Crafting exceptional digital experiences through innovative solutions and cutting-edge technology"
+    },
+    "about": {
+      "title": "About Me",
+      "description": [
+        "With over 8 years of experience in software development, I specialize in building scalable, high-performance applications that solve real-world problems.",
+        "My expertise spans across the entire development stack, from crafting intuitive user interfaces to designing robust backend architectures."
+      ],
+      "skills": {
+        "frontend": {
+          "title": "Frontend",
+          "items": ["React", "Vue", "Svelte", "TypeScript"]
+        },
+        "backend": {
+          "title": "Backend",
+          "items": ["Node.js", "Python", "Java", "PostgreSQL"]
+        }
+      }
+    },
+    "experience": {
+      "title": "Experience",
+      "items": [
+        {
+          "year": "2021 - Present",
+          "company": "Bocasay",
+          "role": "Lead Software Developer",
+          "description": "Leading development teams, architecting solutions, and implementing best practices for scalable applications."
+        },
+        {
+          "year": "2018 - 2021",
+          "company": "Ingenosya",
+          "role": "Senior Full Stack Developer",
+          "description": "Developed enterprise-level applications using React, Node.js, and AWS, improving system performance by 40%."
+        },
+        {
+          "year": "2015 - 2018",
+          "company": "Pulse",
+          "role": "Full Stack Developer",
+          "description": "Built scalable web applications and APIs, mentored junior developers, and implemented CI/CD pipelines."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Enterprise E-commerce Platform",
+          "description": "Scalable marketplace solution handling millions of transactions",
+          "tech": ["Next.js", "Node.js", "PostgreSQL", "Redis"],
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop"
+        },
+        {
+          "title": "AI-Powered Analytics Dashboard",
+          "description": "Real-time data visualization and predictive analytics platform",
+          "tech": ["React", "Python", "TensorFlow", "AWS"],
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2340&auto=format&fit=crop"
+        },
+        {
+          "title": "Fintech Mobile App",
+          "description": "Cross-platform financial management application",
+          "tech": ["React Native", "Go", "MongoDB", "Docker"],
+          "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2340&auto=format&fit=crop"
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "degrees": [
+        {
+          "year": "2015",
+          "degree": "Master in Computer Science",
+          "school": "IT University",
+          "description": "Specialized in Software Engineering and Distributed Systems"
+        },
+        {
+          "year": "2013",
+          "degree": "Bachelor in Computer Science",
+          "school": "IT University",
+          "description": "Focus on Software Development and Mathematics"
+        }
+      ],
+      "certifications": {
+        "title": "Certifications",
+        "items": [
+          {
+            "name": "AWS Solutions Architect Professional",
+            "issuer": "Amazon Web Services",
+            "year": "2023",
+            "icon": "☁️"
+          },
+          {
+            "name": "Google Cloud Professional Architect",
+            "issuer": "Google Cloud",
+            "year": "2022",
+            "icon": "🌐"
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Let's Connect",
+      "subtitle": "Interested in working together? Let's discuss how we can create something amazing.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Send Message"
+      },
+      "info": {
+        "title": "Contact Information",
+        "email": "hello@example.com",
+        "location": "Antananarivo, Madagascar"
+      },
+      "social": {
+        "title": "Social Links",
+        "links": [
+          { "name": "GitHub", "url": "#" },
+          { "name": "LinkedIn", "url": "#" },
+          { "name": "Twitter", "url": "#" }
+        ]
+      }
+    }
+  }

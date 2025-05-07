@@ -1,0 +1,136 @@
+{
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "experience": "Expérience",
+      "projects": "Projets",
+      "testimonials": "Témoignages",
+      "education": "Formation",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Développeur",
+      "subtitle": "Fullstack Senior",
+      "description": "Création d'expériences numériques exceptionnelles grâce à des solutions innovantes et des technologies de pointe"
+    },
+    "about": {
+      "title": "À Propos de Moi",
+      "description": [
+        "Avec plus de 8 ans d'expérience en développement logiciel, je me spécialise dans la création d'applications évolutives et performantes qui résolvent des problèmes concrets.",
+        "Mon expertise couvre l'ensemble de la stack de développement, de la création d'interfaces utilisateur intuitives à la conception d'architectures backend robustes."
+      ],
+      "skills": {
+        "frontend": {
+          "title": "Frontend",
+          "items": ["React", "Vue", "Svelte", "TypeScript"]
+        },
+        "backend": {
+          "title": "Backend",
+          "items": ["Node.js", "Python", "Java", "PostgreSQL"]
+        }
+      }
+    },
+    "experience": {
+      "title": "Expérience",
+      "items": [
+        {
+          "year": "2021 - Présent",
+          "company": "Bocasay",
+          "role": "Développeur Lead",
+          "description": "Direction d'équipes de développement, architecture de solutions et mise en place de bonnes pratiques pour des applications évolutives."
+        },
+        {
+          "year": "2018 - 2021",
+          "company": "Ingenosya",
+          "role": "Développeur Full Stack Senior",
+          "description": "Développement d'applications d'entreprise utilisant React, Node.js et AWS, améliorant les performances du système de 40%."
+        },
+        {
+          "year": "2015 - 2018",
+          "company": "Pulse",
+          "role": "Développeur Full Stack",
+          "description": "Création d'applications web évolutives et d'APIs, mentorat de développeurs juniors et mise en place de pipelines CI/CD."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projets Phares",
+      "items": [
+        {
+          "title": "Plateforme E-commerce Entreprise",
+          "description": "Solution de marketplace évolutive gérant des millions de transactions",
+          "tech": ["Next.js", "Node.js", "PostgreSQL", "Redis"],
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop"
+        },
+        {
+          "title": "Tableau de Bord Analytics IA",
+          "description": "Plateforme de visualisation de données en temps réel et d'analyse prédictive",
+          "tech": ["React", "Python", "TensorFlow", "AWS"],
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2340&auto=format&fit=crop"
+        },
+        {
+          "title": "Application Mobile Fintech",
+          "description": "Application de gestion financière multi-plateforme",
+          "tech": ["React Native", "Go", "MongoDB", "Docker"],
+          "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=2340&auto=format&fit=crop"
+        }
+      ]
+    },
+    "education": {
+      "title": "Formation",
+      "degrees": [
+        {
+          "year": "2015",
+          "degree": "Master en Informatique",
+          "school": "IT University",
+          "description": "Spécialisation en Génie Logiciel et Systèmes Distribués"
+        },
+        {
+          "year": "2013",
+          "degree": "Licence en Informatique",
+          "school": "IT University",
+          "description": "Focus sur le Développement Logiciel et les Mathématiques"
+        }
+      ],
+      "certifications": {
+        "title": "Certifications",
+        "items": [
+          {
+            "name": "AWS Solutions Architect Professional",
+            "issuer": "Amazon Web Services",
+            "year": "2023",
+            "icon": "☁️"
+          },
+          {
+            "name": "Google Cloud Professional Architect",
+            "issuer": "Google Cloud",
+            "year": "2022",
+            "icon": "🌐"
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Contactez-moi",
+      "subtitle": "Intéressé par une collaboration ? Discutons de la façon dont nous pouvons créer quelque chose d'extraordinaire.",
+      "form": {
+        "name": "Nom",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Envoyer"
+      },
+      "info": {
+        "title": "Informations de Contact",
+        "email": "hello@example.com",
+        "location": "Antananarivo, Madagascar"
+      },
+      "social": {
+        "title": "Réseaux Sociaux",
+        "links": [
+          { "name": "GitHub", "url": "#" },
+          { "name": "LinkedIn", "url": "#" },
+          { "name": "Twitter", "url": "#" }
+        ]
+      }
+    }
+  }
