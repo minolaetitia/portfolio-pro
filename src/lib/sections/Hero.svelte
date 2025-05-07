@@ -34,7 +34,7 @@
 
     <div class="flex justify-center mt-20">
       <button
-        class="px-4 py-2 mr-4 text-white bg-accent rounded hover:bg-accent-400 hover:text-white"
+        class="px-4 py-2 mr-4 text-white bg-accent rounded hover:bg-purple-500 hover:text-white"
         on:click={() => {
           const contactSection = document.getElementById('contact');
           if (contactSection) {
@@ -47,7 +47,7 @@
 
       <a href="/fidele_resume.pdf" download="fidele_resume.pdf">
         <button
-          class="px-4 py-2 text-primary bg-white rounded hover:bg-gray-200 hover:text-primary"
+          class="px-4 py-2 text-primary bg-white rounded hover:bg-gray-300 hover:text-primary"
         >
           Download Resume
         </button>
