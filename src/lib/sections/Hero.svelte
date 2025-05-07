@@ -25,14 +25,15 @@
     >
       I'm Fidèle
     </h1>
+
     <p
-      class="hero-text mt-8 text-xl md:text-2xl opacity-0 translate-y-20 max-w-2xl mx-auto"
+      class="hero-text mt-5 text-xl md:text-2xl opacity-0 translate-y-20 max-w-2xl mx-auto"
     >
-      Crafting exceptional digital experiences through innovative solutions and
+      <strong class="text-accent">Angular & .Net Developer</strong>  - Crafting exceptional digital experiences through innovative solutions and
       cutting-edge technology
     </p>
 
-    <div class="flex justify-center mt-20">
+    <div class="flex justify-center mt-10">
       <button
         class="px-4 py-2 mr-4 text-white bg-accent rounded hover:bg-purple-500 hover:text-white"
         on:click={() => {
